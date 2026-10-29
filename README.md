@@ -1,13 +1,13 @@
 # CS 255: System Analysis and Design Portfolio
 
-**Author:** 
-Yunus Parvez Khan
-(yunus.parvezkhan@snhu.edu)
-Department of Computer Science
-**Course:** System Analysis and Design (CS 255) 
-**Instructor:** Dr. Anamika Singh
-Southern New Hampshire University
-Manchester, NH 03106, United States
+**Author:** \
+Yunus Parvez Khan\
+(yunus.parvezkhan@snhu.edu)\
+Department of Computer Science\
+**Course:** System Analysis and Design (CS 255) \
+**Instructor:** Dr. Anamika Singh\
+Southern New Hampshire University\
+Manchester, NH 03106, United States\
 
 
 **Course:** CS 255 --- System Analysis and Design
